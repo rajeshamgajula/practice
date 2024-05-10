@@ -9,4 +9,5 @@
 #include<stdio.h>
 void main(){
     prtintf("This is git demo"); 
+    pritntf("THIS IS the code added newly");
 }
